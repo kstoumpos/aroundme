@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "86482425170",
+    "firebase_url": "https://aroundme-b4dea.firebaseio.com",
+    "project_id": "aroundme-b4dea",
+    "storage_bucket": "aroundme-b4dea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86482425170:android:254ec69b07505f5f",
+        "android_client_info": {
+          "package_name": "com.stoumpos.aroundme2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86482425170-09f7mqin2jbo96fdeisl9m9p5prs800b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkJCOJVJTNLgpo3cEg-u2LSmHCYiBsi5Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

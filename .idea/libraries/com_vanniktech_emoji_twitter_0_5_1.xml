@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="com.vanniktech:emoji-twitter-0.5.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-twitter-0.5.1.aar/335a4caac2c7e292cab272f2509d0a1b/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/emoji-twitter-0.5.1.aar/335a4caac2c7e292cab272f2509d0a1b/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vanniktech/emoji-twitter/0.5.1/1872003ae17a543a44fae4982ab0af8d1d6e189/emoji-twitter-0.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
